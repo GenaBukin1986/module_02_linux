@@ -1,0 +1,268 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 166808 10304 ?        Ss   14:35   0:00 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    14:35   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   14:35   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   14:35   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   14:35   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   14:35   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/0:0H-events_highpri]
+root          10  0.0  0.0      0     0 ?        I<   14:35   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        S    14:35   0:00 [rcu_tasks_rude_]
+root          12  0.0  0.0      0     0 ?        S    14:35   0:00 [rcu_tasks_trace]
+root          13  0.0  0.0      0     0 ?        S    14:35   0:00 [ksoftirqd/0]
+root          14  0.0  0.0      0     0 ?        I    14:35   0:00 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    14:35   0:00 [migration/0]
+root          16  0.0  0.0      0     0 ?        S    14:35   0:00 [idle_inject/0]
+root          17  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/0:1-cgroup_destroy]
+root          18  0.0  0.0      0     0 ?        S    14:35   0:00 [cpuhp/0]
+root          19  0.0  0.0      0     0 ?        S    14:35   0:00 [cpuhp/1]
+root          20  0.0  0.0      0     0 ?        S    14:35   0:00 [idle_inject/1]
+root          21  0.0  0.0      0     0 ?        S    14:35   0:00 [migration/1]
+root          22  0.0  0.0      0     0 ?        S    14:35   0:00 [ksoftirqd/1]
+root          24  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/1:0H-events_highpri]
+root          25  0.0  0.0      0     0 ?        S    14:35   0:00 [cpuhp/2]
+root          26  0.0  0.0      0     0 ?        S    14:35   0:00 [idle_inject/2]
+root          27  0.0  0.0      0     0 ?        S    14:35   0:00 [migration/2]
+root          28  0.0  0.0      0     0 ?        S    14:35   0:00 [ksoftirqd/2]
+root          30  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/2:0H-events_highpri]
+root          31  0.0  0.0      0     0 ?        S    14:35   0:00 [cpuhp/3]
+root          32  0.0  0.0      0     0 ?        S    14:35   0:00 [idle_inject/3]
+root          33  0.0  0.0      0     0 ?        S    14:35   0:00 [migration/3]
+root          34  0.0  0.0      0     0 ?        S    14:35   0:00 [ksoftirqd/3]
+root          35  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/3:0-events]
+root          36  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/3:0H-kblockd]
+root          37  0.0  0.0      0     0 ?        S    14:35   0:00 [kdevtmpfs]
+root          38  0.0  0.0      0     0 ?        I<   14:35   0:00 [inet_frag_wq]
+root          39  0.0  0.0      0     0 ?        S    14:35   0:00 [kauditd]
+root          40  0.0  0.0      0     0 ?        S    14:35   0:00 [khungtaskd]
+root          41  0.0  0.0      0     0 ?        S    14:35   0:00 [oom_reaper]
+root          42  0.0  0.0      0     0 ?        I<   14:35   0:00 [writeback]
+root          43  0.0  0.0      0     0 ?        S    14:35   0:00 [kcompactd0]
+root          44  0.0  0.0      0     0 ?        SN   14:35   0:00 [ksmd]
+root          45  0.0  0.0      0     0 ?        SN   14:35   0:00 [khugepaged]
+root          52  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/2:1-events]
+root          92  0.0  0.0      0     0 ?        I<   14:35   0:00 [kintegrityd]
+root          93  0.0  0.0      0     0 ?        I<   14:35   0:00 [kblockd]
+root          94  0.0  0.0      0     0 ?        I<   14:35   0:00 [blkcg_punt_bio]
+root          95  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/1:1-events]
+root          96  0.0  0.0      0     0 ?        I<   14:35   0:00 [tpm_dev_wq]
+root          97  0.0  0.0      0     0 ?        I<   14:35   0:00 [ata_sff]
+root          98  0.0  0.0      0     0 ?        I<   14:35   0:00 [md]
+root          99  0.0  0.0      0     0 ?        I<   14:35   0:00 [edac-poller]
+root         100  0.0  0.0      0     0 ?        I<   14:35   0:00 [devfreq_wq]
+root         101  0.0  0.0      0     0 ?        S    14:35   0:00 [watchdogd]
+root         103  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/0:1H-kblockd]
+root         105  0.1  0.0      0     0 ?        S    14:35   0:02 [kswapd0]
+root         106  0.0  0.0      0     0 ?        S    14:35   0:00 [ecryptfs-kthrea]
+root         108  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/3:1-events]
+root         109  0.0  0.0      0     0 ?        I<   14:35   0:00 [kthrotld]
+root         110  0.0  0.0      0     0 ?        I<   14:35   0:00 [acpi_thermal_pm]
+root         112  0.0  0.0      0     0 ?        S    14:35   0:00 [scsi_eh_0]
+root         113  0.0  0.0      0     0 ?        I<   14:35   0:00 [scsi_tmf_0]
+root         114  0.0  0.0      0     0 ?        S    14:35   0:00 [scsi_eh_1]
+root         115  0.0  0.0      0     0 ?        I<   14:35   0:00 [scsi_tmf_1]
+root         117  0.0  0.0      0     0 ?        I<   14:35   0:00 [vfio-irqfd-clea]
+root         118  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/u8:4-events_unbound]
+root         119  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/u8:5-events_power_efficient]
+root         120  0.0  0.0      0     0 ?        I<   14:35   0:00 [mld]
+root         121  0.0  0.0      0     0 ?        I<   14:35   0:00 [ipv6_addrconf]
+root         123  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/3:1H-kblockd]
+root         132  0.0  0.0      0     0 ?        I<   14:35   0:00 [kstrp]
+root         135  0.0  0.0      0     0 ?        I<   14:35   0:00 [zswap-shrink]
+root         136  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/u9:0]
+root         141  0.0  0.0      0     0 ?        I<   14:35   0:00 [charger_manager]
+root         186  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/1:1H-kblockd]
+root         198  0.0  0.0      0     0 ?        S    14:35   0:00 [scsi_eh_2]
+root         199  0.0  0.0      0     0 ?        I<   14:35   0:00 [scsi_tmf_2]
+root         200  0.0  0.0      0     0 ?        I<   14:35   0:00 [cryptd]
+root         201  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/0:2-events]
+root         207  0.0  0.0      0     0 ?        I<   14:35   0:00 [kworker/2:1H-kblockd]
+root         251  0.0  0.0      0     0 ?        I<   14:35   0:00 [ttm_swap]
+root         252  0.0  0.0      0     0 ?        S    14:35   0:00 [irq/18-vmwgfx]
+root         253  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc0]
+root         254  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc1]
+root         255  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc2]
+root         256  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc3]
+root         257  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc4]
+root         258  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc5]
+root         259  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc6]
+root         260  0.0  0.0      0     0 ?        S    14:35   0:00 [card0-crtc7]
+root         419  0.0  0.0      0     0 ?        S    14:35   0:00 [jbd2/sda3-8]
+root         420  0.0  0.0      0     0 ?        I<   14:35   0:00 [ext4-rsv-conver]
+root         477  0.0  0.2  56224 15940 ?        S<s  14:35   0:00 /lib/systemd/systemd-journald
+root         505  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/1:3-cgroup_destroy]
+root         514  0.0  0.0  26928  5764 ?        Ss   14:35   0:00 /lib/systemd/systemd-udevd
+root         554  0.0  0.0      0     0 ?        I<   14:35   0:00 [iprt-VBoxWQueue]
+root         754  0.0  0.0      0     0 ?        S<   14:35   0:00 [spl_system_task]
+root         755  0.0  0.0      0     0 ?        S<   14:35   0:00 [spl_delay_taskq]
+root         756  0.0  0.0      0     0 ?        S<   14:35   0:00 [spl_dynamic_tas]
+root         757  0.0  0.0      0     0 ?        S<   14:35   0:00 [spl_kmem_cache]
+root         758  0.0  0.0      0     0 ?        I    14:35   0:00 [kworker/2:2-events]
+root         759  0.0  0.0      0     0 ?        S<   14:35   0:00 [zvol]
+root         760  0.0  0.0      0     0 ?        S    14:35   0:00 [arc_prune]
+root         761  0.0  0.0      0     0 ?        S    14:35   0:00 [arc_evict]
+root         762  0.0  0.0      0     0 ?        SN   14:35   0:00 [arc_reap]
+root         763  0.0  0.0      0     0 ?        S    14:35   0:00 [dbu_evict]
+root         764  0.0  0.0      0     0 ?        SN   14:35   0:00 [dbuf_evict]
+root         765  0.0  0.0      0     0 ?        SN   14:35   0:00 [z_vdev_file]
+root         766  0.0  0.0      0     0 ?        S    14:35   0:00 [l2arc_feed]
+systemd+     862  0.0  0.2  26620 12100 ?        Ss   14:35   0:00 /lib/systemd/systemd-resolved
+root         953  0.0  0.1 240732  7996 ?        Ssl  14:35   0:00 /usr/libexec/accounts-daemon
+root         954  0.0  0.0   2816  1156 ?        Ss   14:35   0:00 /usr/sbin/acpid
+avahi        957  0.0  0.0   7632  3232 ?        Ss   14:35   0:00 avahi-daemon: running [misha-VirtualBox.local]
+root         959  0.0  0.0   9528  2896 ?        Ss   14:35   0:00 /usr/sbin/cron -f -P
+message+     960  0.0  0.0  10048  5404 ?        Ss   14:35   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         961  0.0  0.2 336144 14552 ?        Ssl  14:35   0:00 /usr/sbin/NetworkManager --no-daemon
+root         966  0.0  0.0  82708  4024 ?        Ssl  14:35   0:00 /usr/sbin/irqbalance --foreground
+root         969  0.0  0.0 151276  1848 ?        Ssl  14:35   0:00 /usr/bin/lxcfs /var/lib/lxcfs
+root         974  0.0  0.2  41232 17816 ?        Ss   14:35   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         981  0.0  0.1 237224  9164 ?        Ssl  14:35   0:00 /usr/libexec/polkitd --no-debug
+syslog       982  0.0  0.0 222404  5092 ?        Ssl  14:35   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         987  0.2  0.3 1468908 22572 ?       Ssl  14:35   0:02 /usr/lib/snapd/snapd
+root         988  0.0  0.1  23592  6500 ?        Ss   14:35   0:00 /lib/systemd/systemd-logind
+root         993  0.0  0.1 393392 10988 ?        Ssl  14:35   0:00 /usr/libexec/udisks2/udisksd
+root        1001  0.0  0.0  16504  4048 ?        Ss   14:35   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root        1006  0.0  0.0 101288  4132 ?        Ssl  14:35   0:00 /usr/sbin/zed -F
+avahi       1018  0.0  0.0   7444   308 ?        S    14:35   0:00 avahi-daemon: chroot helper
+root        1071  0.0  0.1  72664 11296 ?        Ss   14:35   0:00 /usr/sbin/cupsd -l
+root        1072  0.0  0.0   4876  1340 ?        Ss   14:35   0:00 /usr/lib/x86_64-linux-gnu/lxc/lxc-monitord --daemon
+root        1080  0.0  0.2 205400 13948 ?        Ss   14:35   0:00 php-fpm: master process (/etc/php/8.1/fpm/php-fpm.conf)
+root        1094  0.0  0.3 1948872 21576 ?       Ssl  14:35   0:00 /usr/bin/containerd
+ntp         1101  0.0  0.0  76124  4396 ?        Ssl  14:35   0:00 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 109:119
+root        1102  0.0  0.1 317996  9244 ?        Ssl  14:35   0:00 /usr/sbin/ModemManager
+root        1127  0.0  0.1  15456  6416 ?        Ss   14:35   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root        1155  0.0  0.0  84852  1068 ?        Ss   14:35   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+www-data    1156  0.0  0.0  85480  4504 ?        S    14:35   0:00 nginx: worker process
+www-data    1157  0.0  0.0  85480  4504 ?        S    14:35   0:00 nginx: worker process
+www-data    1158  0.0  0.0  85480  4504 ?        S    14:35   0:00 nginx: worker process
+www-data    1159  0.0  0.0  85480  4504 ?        S    14:35   0:00 nginx: worker process
+root        1176  0.0  0.2 205604 12636 ?        Ss   14:35   0:00 /usr/sbin/apache2 -k start
+www-data    1177  0.0  0.0 205872  5660 ?        S    14:35   0:00 php-fpm: pool www
+www-data    1178  0.0  0.0 205876  5660 ?        S    14:35   0:00 php-fpm: pool www
+www-data    1196  0.0  0.0 206096  5380 ?        S    14:35   0:00 /usr/sbin/apache2 -k start
+www-data    1197  0.0  0.0 206096  5380 ?        S    14:35   0:00 /usr/sbin/apache2 -k start
+www-data    1198  0.0  0.0 206096  5380 ?        S    14:35   0:00 /usr/sbin/apache2 -k start
+www-data    1199  0.0  0.0 206096  5380 ?        S    14:35   0:00 /usr/sbin/apache2 -k start
+www-data    1201  0.0  0.0 206096  5380 ?        S    14:35   0:00 /usr/sbin/apache2 -k start
+postgres    1216  0.0  0.4 220976 25704 ?        Ss   14:35   0:00 /usr/lib/postgresql/14/bin/postgres -D /var/lib/postgresql/14/main -c config_file=/etc/postgresql/14/main/postgresql.conf
+mysql       1217  0.3  6.1 2373672 369524 ?      Ssl  14:35   0:04 /usr/sbin/mysqld
+root        1245  0.0  0.1 172092  9812 ?        Ssl  14:35   0:00 /usr/sbin/cups-browsed
+kernoops    1251  0.0  0.0  13124   308 ?        Ss   14:35   0:00 /usr/sbin/kerneloops --test
+kernoops    1255  0.0  0.0  13124   456 ?        Ss   14:35   0:00 /usr/sbin/kerneloops
+postgres    1279  0.0  0.1 221088  9088 ?        Ss   14:35   0:00 postgres: 14/main: checkpointer 
+postgres    1280  0.0  0.1 220976  6408 ?        Ss   14:35   0:00 postgres: 14/main: background writer 
+postgres    1282  0.0  0.1 220976 11124 ?        Ss   14:35   0:00 postgres: 14/main: walwriter 
+postgres    1283  0.0  0.1 221540  9152 ?        Ss   14:35   0:00 postgres: 14/main: autovacuum launcher 
+postgres    1285  0.0  0.0  75712  5852 ?        Ss   14:35   0:00 postgres: 14/main: stats collector 
+postgres    1286  0.0  0.1 221404  7224 ?        Ss   14:35   0:00 postgres: 14/main: logical replication launcher 
+root        1321  0.0  0.5 2339704 32708 ?       Ssl  14:35   0:00 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+lxc-dns+    1392  0.0  0.0  15712   376 ?        S    14:35   0:00 dnsmasq --conf-file=/dev/null -u lxc-dnsmasq --strict-order --bind-interfaces --pid-file=/run/lxc/dnsmasq.pid --listen-address 10.0.3.1 --dhcp-range 10.0.3.2,10.0.3.254 --dhcp-lease-max=253 --dhcp-no-override --except-interface=lo --interface=lxcbr0 --dhcp-leasefile=/var/lib/misc/dnsmasq.lxcbr0.leases --dhcp-authoritative
+root        1571  0.0  0.1 306780  6240 ?        Ssl  14:35   0:00 /usr/sbin/lightdm
+root        1597  0.0  0.0 289808  1352 ?        Sl   14:35   0:00 /usr/bin/VBoxDRMClient
+root        1600  0.0  0.0 295736  2748 ?        Sl   14:35   0:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root        1666  1.7  2.8 517728 170140 tty7    Ssl+ 14:35   0:19 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root        1675  0.0  0.0   8784   988 tty1     Ss+  14:35   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root        2389  0.0  0.0      0     0 ?        I<   14:35   0:00 [iprt-VBoxWQueue]
+root        2392  0.0  0.0      0     0 ?        S    14:35   0:00 [iprt-VBoxTscThr]
+root        2470  0.0  0.0 1238252 5868 ?        Sl   14:35   0:00 /usr/bin/containerd-shim-runc-v2 -namespace moby -id fcf21da0b76452f182d59658779f71ff572020821b1d71b29f44fd52b242bbfe -address /run/containerd/containerd.sock
+root        2471  0.0  0.0 1238252 5252 ?        Sl   14:35   0:00 /usr/bin/containerd-shim-runc-v2 -namespace moby -id 36e701145ce357e6cfa68278f066e3144bb24a164571eb87f1cb7e48af25726a -address /run/containerd/containerd.sock
+root        2534  0.0  0.1 158872 10420 ?        Ss   14:35   0:00 php-fpm: master process (/usr/local/etc/php-fpm.conf)
+vboxadd     2544  0.3  6.1 2363252 369716 ?      Ssl  14:35   0:04 mysqld --default-authentication-plugin=mysql_native_password
+root        2643  0.0  0.1 164792  7916 ?        Sl   14:35   0:00 lightdm --session-child 12 15
+misha       2672  0.0  0.1  17616  8356 ?        Ss   14:35   0:00 /lib/systemd/systemd --user
+misha       2681  0.0  0.0 171980  2900 ?        S    14:35   0:00 (sd-pam)
+misha       2749  0.0  0.0  39296  5776 ?        S<sl 14:35   0:00 /usr/bin/pipewire
+misha       2750  0.0  0.3 901864 23332 ?        S<sl 14:35   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+misha       2766  0.0  0.4 472408 29016 ?        Ssl  14:35   0:00 xfce4-session
+rtkit       2776  0.0  0.0 154004  1488 ?        SNsl 14:35   0:00 /usr/libexec/rtkit-daemon
+misha       2806  0.0  0.0   9180  4916 ?        Ss   14:35   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+misha       2952  0.0  0.0  20068    60 ?        S    14:35   0:00 /usr/bin/VBoxClient --clipboard
+misha       2953  0.0  0.0 218256  1164 ?        Sl   14:35   0:00 /usr/bin/VBoxClient --clipboard
+misha       2970  0.0  0.0  20068    92 ?        S    14:35   0:00 /usr/bin/VBoxClient --seamless
+misha       2976  0.0  0.0 218360  1528 ?        Sl   14:35   0:00 /usr/bin/VBoxClient --seamless
+misha       2978  0.0  0.0  20068    72 ?        S    14:35   0:00 /usr/bin/VBoxClient --draganddrop
+misha       2979  0.0  0.0 218876  1548 ?        Sl   14:35   0:00 /usr/bin/VBoxClient --draganddrop
+misha       2984  0.0  0.0  20068    56 ?        S    14:35   0:00 /usr/bin/VBoxClient --vmsvga-session
+misha       2990  0.0  0.0 218328  1248 ?        Sl   14:35   0:00 /usr/bin/VBoxClient --vmsvga-session
+misha       3304  0.0  0.1 240944  7504 ?        Ssl  14:35   0:00 /usr/libexec/gvfsd
+misha       3309  0.0  0.0 380928  5948 ?        Sl   14:35   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+misha       3312  0.0  0.1 309768  7252 ?        Ssl  14:35   0:00 /usr/libexec/at-spi-bus-launcher
+misha       3323  0.0  0.0   8592  3952 ?        S    14:35   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+misha       3325  0.0  0.1 231172  6076 ?        Sl   14:35   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+misha       3331  0.0  0.1 162860  6648 ?        Sl   14:35   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+misha       3337  0.0  0.0   7980     0 ?        Ss   14:35   0:00 /usr/bin/ssh-agent -s
+misha       3344  0.0  0.0  84064  2848 ?        SLs  14:35   0:00 /usr/bin/gpg-agent --supervised
+misha       3346  0.2  0.7 567528 42256 ?        Sl   14:35   0:02 xfwm4
+misha       3404  0.0  0.2 229844 12452 ?        Sl   14:35   0:00 xfsettingsd
+root        3412  0.0  0.1 242568  7836 ?        Ssl  14:35   0:00 /usr/libexec/upowerd
+misha       3455  0.0  0.4 466036 25348 ?        Sl   14:35   0:00 xfce4-panel
+misha       3459  0.0  0.5 546568 34280 ?        Sl   14:35   0:00 Thunar --daemon
+misha       3464  0.0  0.5 560840 33292 ?        Sl   14:35   0:00 xfdesktop
+misha       3468  0.0  0.3 481332 20500 ?        Sl   14:35   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 23068679 whiskermenu Меню Whisker Показывает меню для простого доступа к установленным приложениям
+misha       3471  0.0  0.3 390980 19524 ?        Sl   14:35   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 11 23068680 power-manager-plugin Модуль менеджера питания Показывает уровень заряда ваших устройств и регулирует яркость экрана
+misha       3472  0.0  0.2 654304 15996 ?        Sl   14:35   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 12 23068681 pulseaudio Модуль PulseAudio Управление громкостью звука системы PulseAudio
+misha       3473  0.0  0.4 426560 28924 ?        Sl   14:35   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxkb.so 15 23068682 xkb Раскладки клавиатуры Настройка и переключение клавиатурных раскладок
+misha       3488  0.0  0.2 298532 12852 ?        Ssl  14:35   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+misha       3533  0.0  0.0 237364  4836 ?        Sl   14:35   0:00 /usr/libexec/geoclue-2.0/demos/agent
+misha       3552  0.0  0.3 410444 22316 ?        Sl   14:35   0:00 /usr/bin/python3 /usr/bin/blueman-applet
+misha       3576  0.0  0.2 228700 13896 ?        Sl   14:35   0:00 xfce4-power-manager
+misha       3578  0.0  0.2 302208 12824 ?        Sl   14:35   0:00 light-locker
+misha       3586  0.0  0.1 848804  6780 ?        Sl   14:35   0:00 xiccd
+misha       3588  0.0  0.0 157004  5656 ?        Ssl  14:35   0:00 /usr/libexec/dconf-service
+misha       3589  0.0  0.3 623884 19860 ?        Sl   14:35   0:00 nm-applet
+misha       3601  0.0  0.2  61360 13916 ?        S    14:35   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+colord      3603  0.0  0.2 245888 12284 ?        Ssl  14:35   0:00 /usr/libexec/colord
+misha       3604  0.0  0.1 224232 10880 ?        Sl   14:35   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+misha       3622  0.2  0.4 578800 27056 ?        Sl   14:35   0:03 mintreport-tray
+misha       3666  0.0  0.4 752612 24376 ?        Sl   14:35   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+misha       3668  0.0  0.1 447716  7220 ?        Ssl  14:35   0:00 xfce4-volumed
+misha       3758  0.0  0.2 393036 17456 ?        Ssl  14:35   0:00 /usr/libexec/evolution-source-registry
+misha       3768  0.0  0.1 316652  8600 ?        Ssl  14:35   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+misha       3798  0.0  0.0  46968  5428 ?        Ss   14:35   0:00 /usr/lib/bluetooth/obexd
+misha       3801  0.0  0.1 315512  7408 ?        Ssl  14:35   0:00 /usr/libexec/gvfs-afc-volume-monitor
+misha       3810  0.0  0.3 841196 19568 ?        Ssl  14:35   0:00 /usr/libexec/evolution-calendar-factory
+misha       3821  0.0  0.1 237684  6884 ?        Ssl  14:35   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+misha       3828  0.0  0.1 236728  6532 ?        Ssl  14:35   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+misha       3830  0.0  0.6 663864 40092 ?        Sl   14:35   0:00 mintUpdate
+misha       3834  0.0  0.1 236932  6280 ?        Ssl  14:35   0:00 /usr/libexec/gvfs-goa-volume-monitor
+82          3849  0.0  0.0 158884  3488 ?        S    14:35   0:00 php-fpm: pool www
+82          3850  0.0  0.0 158884  3492 ?        S    14:35   0:00 php-fpm: pool www
+misha       3851  0.0  0.3 673108 19940 ?        Ssl  14:35   0:00 /usr/libexec/evolution-addressbook-factory
+misha       3928 27.8 41.9 8331280 2504988 ?     SLl  14:35   5:12 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/bin/java -classpath /home/misha/Загрузки/pycharm-community-2024.2.1/lib/platform-loader.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/util-8.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/util.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/app-client.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/util_rt.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/opentelemetry.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/app.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/lib-client.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/stats.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/jps-model.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/external-system-rt.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/rd.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/bouncy-castle.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/protobuf.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/forms_rt.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/lib.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/externalProcess-rt.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/groovy.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/annotations.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/jsch-agent.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/junit4.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/nio-fs.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/trove.jar -XX:ErrorFile=/home/misha/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/misha/java_error_in_pycharm_.hprof -Xms256m -Xmx1500m -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -XX:+IgnoreUnrecognizedVMOptions -ea -Dsun.io.useCanonCaches=false -Dsun.java2d.metal=true -Djbr.catch.SIGABRT=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -XX:CICompilerCount=2 -XX:ReservedCodeCacheSize=512m -XX:+UnlockDiagnosticVMOptions -XX:TieredOldPercentage=100000 -Dsun.tools.attach.tmp.only=true -Dawt.lock.fair=true -Xmx2048m -Djb.vmOptionsFile=/home/misha/.config/JetBrains/PyCharmCE2024.2/pycharm64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharmCE2024.2 -Djna.boot.library.path=/home/misha/Загрузки/pycharm-community-2024.2.1/lib/jna/amd64 -Dpty4j.preferred.native.folder=/home/misha/Загрузки/pycharm-community-2024.2.1/lib/pty4j -Djna.nosys=true -Djna.noclasspath=true -Dintellij.platform.runtime.repository.path=/home/misha/Загрузки/pycharm-community-2024.2.1/modules/module-descriptors.jar -Didea.platform.prefix=PyCharmCore -Dsplash=true -Daether.connector.resumeDownloads=false --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.ref=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.text=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.locks=ALL-UNNAMED --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED --add-opens=java.base/sun.net.dns=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.fs=ALL-UNNAMED --add-opens=java.base/sun.security.ssl=ALL-UNNAMED --add-opens=java.base/sun.security.util=ALL-UNNAMED --add-opens=java.desktop/com.sun.java.swing=ALL-UNNAMED --add-opens=java.desktop/com.sun.java.swing.plaf.gtk=ALL-UNNAMED --add-opens=java.desktop/java.awt=ALL-UNNAMED --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED --add-opens=java.desktop/java.awt.event=ALL-UNNAMED --add-opens=java.desktop/java.awt.font=ALL-UNNAMED --add-opens=java.desktop/java.awt.image=ALL-UNNAMED --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED --add-opens=java.desktop/javax.swing.text=ALL-UNNAMED --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED --add-opens=java.desktop/sun.awt=ALL-UNNAMED --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED --add-opens=java.desktop/sun.font=ALL-UNNAMED --add-opens=java.desktop/sun.java2d=ALL-UNNAMED --add-opens=java.desktop/sun.swing=ALL-UNNAMED --add-opens=java.management/sun.management=ALL-UNNAMED --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED -Xbootclasspath/a:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/nio-fs.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/nio-fs.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/nio-fs.jar:/home/misha/Загрузки/pycharm-community-2024.2.1/lib/nio-fs.jar com.intellij.idea.Main
+misha       4004  0.0  0.0   3584  1924 ?        S    14:35   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/bin/fsnotifier
+misha       4047  0.0  0.1 388864  9372 ?        SLl  14:35   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+misha       4160  0.0  0.4 343868 25276 ?        S    14:36   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=zygote --no-zygote-sandbox --disable-in-process-stack-traces --force-device-scale-factor=1.0 --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --lang=en-US --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --log-file=/home/misha/jcef_3928.log
+misha       4161  0.0  0.4 343860 25220 ?        S    14:36   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=zygote --disable-in-process-stack-traces --force-device-scale-factor=1.0 --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --lang=en-US --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --log-file=/home/misha/jcef_3928.log
+misha       4163  0.0  0.2 343884 13876 ?        S    14:36   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=zygote --disable-in-process-stack-traces --force-device-scale-factor=1.0 --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --lang=en-US --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --log-file=/home/misha/jcef_3928.log
+misha       4178  0.0  1.1 1387836 69420 ?       Sl   14:36   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=gpu-process --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --lang=en-US --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --disable-in-process-stack-traces --log-file=/home/misha/jcef_3928.log --shared-files --field-trial-handle=0,i,1510201259228065648,1482054129649396025,262144 --disable-features=SpareRendererForSitePerProcess --variations-seed-version
+misha       4181  0.0  0.4 639444 24196 ?        Sl   14:36   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=utility --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --lang=en-US --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --disable-in-process-stack-traces --log-file=/home/misha/jcef_3928.log --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,1510201259228065648,1482054129649396025,262144 --disable-features=SpareRendererForSitePerProcess --variations-seed-version
+misha       4186  0.0  0.4 715868 29712 ?        Sl   14:36   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --lang=en-US --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --disable-in-process-stack-traces --log-file=/home/misha/jcef_3928.log --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,1510201259228065648,1482054129649396025,262144 --disable-features=SpareRendererForSitePerProcess --variations-seed-version
+misha       4234  0.0  1.0 49702468 60240 ?      Sl   14:37   0:00 /home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/jcef_helper --type=renderer --locales-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib/locales --log-severity=disable --resources-dir-path=/home/misha/Загрузки/pycharm-community-2024.2.1/jbr/lib --user-data-dir=/home/misha/.cache/JetBrains/PyCharmCE2024.2/jcef_cache --disable-in-process-stack-traces --autoplay-policy=no-user-gesture-required --force-device-scale-factor=1.0 --log-file=/home/misha/jcef_3928.log --disable-gpu-compositing --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1741347301349394 --launch-time-ticks=128160638 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,1510201259228065648,1482054129649396025,262144 --disable-features=SpareRendererForSitePerProcess --variations-seed-version
+misha       4347  0.0  0.1 163204  6040 ?        Ssl  14:40   0:00 /usr/libexec/gvfsd-metadata
+misha       4350  0.0  0.1 315220  7496 ?        Sl   14:40   0:00 /usr/libexec/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+misha       4387  0.4  2.4 1214155336 149220 ?   SLl  14:40   0:03 /usr/share/code/code
+misha       4390  0.0  0.4 33790444 26864 ?      S    14:40   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+misha       4391  0.0  0.4 33790432 26220 ?      S    14:40   0:00 /usr/share/code/code --type=zygote
+misha       4393  0.0  0.1 33790456 11604 ?      S    14:40   0:00 /usr/share/code/code --type=zygote
+misha       4413  0.0  0.0 33576948 2652 ?       Sl   14:40   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/misha/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=530571ba-9e4a-469d-ad13-4659787b8dfc&iid=530571ba-9e4a-469d-ad13-4659787b8dfc&sid=530571ba-9e4a-469d-ad13-4659787b8dfc --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.97.2 --annotation=lsb-release=Linux Mint 21.1 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=32.2.7 --initial-client-fd=45 --shared-client-connection
+misha       4423  0.0  0.2 403160 13096 ?        Ssl  14:40   0:00 /usr/libexec/xdg-desktop-portal
+misha       4427  0.0  0.1 463604  7112 ?        Ssl  14:40   0:00 /usr/libexec/xdg-document-portal
+misha       4430  0.0  0.0 236368  5360 ?        Ssl  14:40   0:00 /usr/libexec/xdg-permission-store
+misha       4437  0.3  2.1 34156976 128040 ?     Sl   14:40   0:02 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+root        4442  0.0  0.0   2796  1004 ?        Ss   14:40   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+misha       4447  0.0  0.2 373768 15460 ?        Ssl  14:40   0:00 /usr/libexec/xdg-desktop-portal-gtk
+misha       4448  0.1  0.8 33840752 50656 ?      Sl   14:40   0:01 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+misha       4479  1.5  4.2 1214003836 256312 ?   Sl   14:40   0:12 /usr/share/code/code --type=renderer --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1741347301349394 --launch-time-ticks=357810482 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:6c1bd276-b06a-41af-bb96-f513f14e1d0a
+misha       4620  0.3  1.3 1213968812 78216 ?    Sl   14:40   0:02 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+misha       4630  1.9  1.8 1213943608 110160 ?   Sl   14:40   0:15 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+misha       4631  0.0  1.1 1213944156 71648 ?    Sl   14:40   0:00 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+misha       4651  0.5  2.8 1213945964 169184 ?   Sl   14:40   0:04 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=4413 --enable-crash-reporter=d3d2e894-9cdc-4d6c-b207-64b262656a40,no_channel --user-data-dir=/home/misha/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9972912509632008189,3221542288477714142,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+misha       4805  0.0  0.0  11572  5584 pts/0    Ss+  14:41   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+misha       4818  0.0  0.0  11572  5560 pts/1    Ss+  14:41   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+misha       5025  0.0  0.0  11572  5580 pts/2    Ss+  14:41   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+misha       5325  0.3  2.9 1213906820 176552 ?   Sl   14:41   0:02 /usr/share/code/code /home/misha/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist/server.bundle.js --cancellationReceive=file:49781ffb32fd57d7c10bfe45c2a8260ba98fa8b998 --node-ipc --clientProcessId=4651
+misha       5929  0.0  0.1  12204  6232 pts/3    Ss   14:43   0:00 /bin/bash --rcfile /home/misha/Загрузки/pycharm-community-2024.2.1/plugins/terminal/shell-integrations/bash/bash-integration.bash -i
+root        7533  0.0  0.3 298716 20780 ?        Ssl  14:45   0:00 /usr/libexec/packagekitd
+root        8809  0.0  0.0      0     0 ?        I    14:50   0:00 [kworker/3:2-events]
+root        8895  0.0  0.0      0     0 ?        I    14:50   0:00 [kworker/u8:0-events_power_efficient]
+misha       9827  0.0  0.0  13136  3772 pts/3    R+   14:54   0:00 ps -aux
