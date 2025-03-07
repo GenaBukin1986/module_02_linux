@@ -1,1 +1,3 @@
 origin  https://gitlab.skillbox.ru/nikolai_medvedev_2/python_advanced.git
+Flask==2.2.2
+werkzeug==2.3.6
