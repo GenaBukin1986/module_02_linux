@@ -39,7 +39,7 @@ def convert(units: int):
         str: Размер в удобном формате с единицами измерения.
     """
     if units < 2 ** 10:
-        return f'{str(units)} Б'
+        return f'{units} Б'
     elif 2 ** 10 <= units < 2 ** 20:
         return f'{round(units / 2 ** 10, 1)} Kб'
     elif 2 ** 20 <= units < 2 ** 30:
