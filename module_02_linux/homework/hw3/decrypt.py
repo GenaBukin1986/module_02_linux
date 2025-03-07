@@ -38,10 +38,35 @@ import sys
 
 
 def decrypt(encryption: str) -> str:
-    ...
+    """
+    Принимает на вход шифр в виде строки, а возвращает расшифрованное сообщение.
+
+    Args:
+        encryption (str): Шифр, который нужно расшифровать.
+    Returns:
+        str: Расшифрованное сообщение
+    """
+    result = []
+    cht = 0
+    for _ in range(0, len(encryption) - 1):
+        if  cht < len(encryption):
+            if encryption[cht] != '.':
+                result.append(encryption[cht])
+                cht += 1
+            elif ((cht < len(encryption) - 1) and encryption[cht + 1] == '.')  and encryption[cht] == '.':
+                cht += 2
+                if result:
+                    result.pop()
+            elif encryption[cht] == '.':
+                cht += 1
+        else:
+            break
+
+    return ''.join(result)
 
 
 if __name__ == '__main__':
     data: str = sys.stdin.read()
-    decryption: str = decrypt(data)
+    print(data[:-1])
+    decryption: str = decrypt(data[:-1])
     print(decryption)
